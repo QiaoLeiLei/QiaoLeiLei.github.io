@@ -1,0 +1,1 @@
+window.BY_DEBUG=!0,window.bycc={},window.fish={},bycc.Resource={},window.BYResource=bycc.Resource,window.BYSYSMOD=0;
